@@ -1,2 +1,2 @@
 # My_Leetcode_Solutions
-Here i would be uploading solutions to some of the best problems that I solve at leetcode 
+Here I would be uploading solutions to some of the quality problems that I solve at leetcode 
